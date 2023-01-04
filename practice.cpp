@@ -2,6 +2,8 @@
 using namespace std;
 int main(){
 
-    cout<<"hello world";
+    int ans=0;
+    if(ans==0)cout<<"hello world";
+    else cout<<"unhello";
     return 0;
 }
